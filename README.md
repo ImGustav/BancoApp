@@ -29,5 +29,5 @@ Para executar o projeto, siga os passos abaixo:
    
 2. Clone este repositório:
 
-   ```bash
-   git clone https://github.com/YgorGdev/BancoApp.git
+   ```bash            
+   git clone https://github.com/ImGustav/BancoApp.git
